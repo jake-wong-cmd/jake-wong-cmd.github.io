@@ -26,7 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Jake Wong 黄家骏"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Sinophone Literature & Mahua Literature & Digital Humanities"
+  bio: |
+    PhD Student in Sinophone Literature
+    & Mahua Literature
+    & Digital Humanities
   location         : "Kuala Lumpur, Malaysia"
   employer         : "Universiti Malaya"
   uri              : # URL
