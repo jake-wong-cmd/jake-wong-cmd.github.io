@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Department of Chinese Studies at [Universiti Malaya](https://www.um.edu.my/), working at the intersection of **Sinophone literature**, **Mahua literature**, and **digital humanities**. My research applies computational and quantitative methods to the study of modern Chinese-language literary production in Malaysia and beyond.
+I am a PhD student in the Department of Chinese Studies at [Universiti Malaya](https://www.um.edu.my/), working at the intersection of **Sinophone literature**, **Mahua literature**, and **digital humanities**. My research focuses on modern Chinese-language literary production in Malaysia and beyond, approached through computational and quantitative methods.
 
 **Research Interests**
 - Mahua (Malaysian Chinese) Literature
