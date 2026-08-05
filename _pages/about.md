@@ -16,5 +16,3 @@ I am a PhD student in the Department of Chinese Studies at [Universiti Malaya](h
 - Stylometry and Corpus Linguistics
 - Postmemory and Cultural Memory
 
----
-*This site is built with [Academic Pages](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages.*
