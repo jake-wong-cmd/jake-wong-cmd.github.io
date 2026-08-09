@@ -16,3 +16,5 @@ I am a PhD student in the Department of Chinese Studies at [Universiti Malaya](h
 - Stylometry and Corpus Linguistics
 - Postmemory and Cultural Memory
 
+**Open Source Projects**
+- **[LinguaFlow](https://linguaflow-cloud.hjjzzza.chatgpt.site/)** — A Chinese-English bilingual long-form collaborative translation editor. 中英双语长文协作翻译编辑器。
