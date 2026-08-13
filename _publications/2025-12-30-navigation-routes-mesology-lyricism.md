@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2025-12-30-navigation-routes-mesology-lyricism
 date: 2025-12-30
 venue: 'International Communication Studies in Literature and Art'
-paperurl: 'https://oss.hiep.hk/202606/820e19d05943ff7.pdf'
-citation: 'Jiajun Huang. (2025). <a href="https://oss.hiep.hk/202606/820e19d05943ff7.pdf">Navigation Routes, Mesology, and Lyricism: A Review of Gao Jiaqian&apos;s <i>Maritime Poetry Road: East Asian Routes and Nanyang Mesology</i></a>. <i>International Communication Studies in Literature and Art</i>.'
+paperurl: 'https://oss.hiep.hk/202606/14b6722ebe51c7c.pdf'
+citation: 'Jiajun Huang. (2025). <a href="https://oss.hiep.hk/202606/14b6722ebe51c7c.pdf">Navigation Routes, Mesology, and Lyricism: A Review of Gao Jiaqian&apos;s <i>Maritime Poetry Road: East Asian Routes and Nanyang Mesology</i></a>. <i>International Communication Studies in Literature and Art</i>.'
 ---
