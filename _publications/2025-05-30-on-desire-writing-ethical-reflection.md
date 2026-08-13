@@ -5,6 +5,6 @@ category: manuscripts
 permalink: /publication/2025-05-30-on-desire-writing-ethical-reflection
 date: 2025-05-30
 venue: 'Journal of Literary Writing and Evaluation'
-paperurl: 'https://doi.org/10.64058/jlwe.25.1.10'
-citation: 'Jiajun Huang. (2025). <a href="https://doi.org/10.64058/jlwe.25.1.10">On Desire Writing and Ethical Reflection in <i>The Goat, or Who is Sylvia?</i></a>. <i>Journal of Literary Writing and Evaluation</i>.'
+paperurl: 'https://oss.hiep.hk/202606/14b6722ebe51c7c.pdf'
+citation: 'Jiajun Huang. (2025). <a href="https://oss.hiep.hk/202606/14b6722ebe51c7c.pdf">On Desire Writing and Ethical Reflection in <i>The Goat, or Who is Sylvia?</i></a>. <i>Journal of Literary Writing and Evaluation</i>.'
 ---
